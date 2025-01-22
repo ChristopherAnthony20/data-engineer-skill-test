@@ -1,0 +1,1 @@
+kenapa scriptnya lambat, dikarenakan proses pembacaan file yang langsung secara menyeluruh.. hal ini menyebabkan proses menjadi lama.. jadi untuk menjadi lebih cepat perlu di butuhkan optimalisasi dengan cara membagi file menjadi beberapa bagian sehingga akan mempercepat proses
